@@ -5,10 +5,13 @@ This is a react routing repository....
 
 clone the repository....
 &
+<br>
 npm install...
 &
+<br>
 npm run start...
 &
+<br>
 
 
 
